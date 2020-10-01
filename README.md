@@ -1,0 +1,2 @@
+# MediatRApp
+Use of MediatR
