@@ -1,6 +1,8 @@
 # MediatRApp
 Use of MediatR
 
-Przyk≥ad uøycia request, request handler.
-Przyklad uøycia notyfication.
-Przyk≥ad uøycia request, request handler z notyfication handlera.
+Przyk≈Çad u≈ºycia request, request handler.
+
+Przyklad u≈ºycia notyfication.
+
+Przyk≈Çad u≈ºycia request, request handler z notyfication handlera.
